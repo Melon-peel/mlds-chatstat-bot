@@ -28,7 +28,7 @@
 - `source path/to/your/venv/bin/activate`
 - `cd mlds-chatstat-bot`
 - `poetry install`
-- Необходимо создать файл ```chatbot/bot_config.json``` в следующем формате: ```{"token": "your_token_here"}```. ```your_token_here``` можно получить, зарегистрировав бота у [BotFather](https://telegram.me/BotFather)
+- Необходимо создать файл ```chatbot/bot_config.json``` в следующем формате: ```{"token": *your_token_here*}```. Токен можно получить, зарегистрировав бота у [BotFather](https://telegram.me/BotFather)
 
 ---
 
