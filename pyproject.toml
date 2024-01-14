@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "mlds-chatstat-bot"
+version = "0.1.0"
+description = ""
+authors = ["Kiri <conv.lizzard@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+matplotlib = "^3.8.2"
+seaborn = "^0.13.1"
+aiogram = "^3.3.0"
+pandas = "^2.1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
